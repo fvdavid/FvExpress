@@ -40,3 +40,8 @@ PATCH, if you want to change only email or only firstName
 
     curl --request GET "localhost:3030/users/$USER_ID" --header 'Content-Type: application/json'
 
+
+### Next coming up features:
+- MongoDB
+- Security Layer with JWT
+- Automated-testing for Scale
